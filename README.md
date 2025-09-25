@@ -6,15 +6,15 @@ I have completed the common core at 42 School, and my main skills include C, C++
 
 ## 📊 GitHub Stats <img align="right" width="20%" src="https://komarev.com/ghpvc/?username=fgori42&label=PROFILE+VIEWS">
 <div style="display: flex; justify-content: center;">
-  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=fgori42&theme=transparent&icon_color=red&show_icons=true">
-  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgori42&theme=transparent&layout=compact">
+  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=fgori42&theme=radical&show_icons=true">
+  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgori42&theme=radical&layout=compact">
 
-  ![Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fgori42&theme=transparent)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fgori42&theme=transparent)
+  ![Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fgori42&theme=radical)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fgori42&theme=radical)
 </div>
 
 ## 🛠️ Linguaggi & Competenze
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,git,github,linux,ts,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,git,github,linux,ts,docker,blender)](https://skillicons.dev)
 
 
