@@ -6,8 +6,8 @@ I have completed the common core at 42 School, and my main skills include C, C++
 
 ## 📊 GitHub Stats <img align="right" width="20%" src="https://komarev.com/ghpvc/?username=fgori42&label=PROFILE+VIEWS">
 <div style="display: flex; justify-content: center;">
-  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=fgori42&theme=transparent&show_icons=true&icon_color=00ff00&text_color=00ff00">
-  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgori42&theme=transparent&layout=compact&text_color=00ff00">
+  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=fgori42&theme=transparent&show_icons=true">
+  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgori42&theme=transparent&layout=compact">
 
   ![Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fgori42&theme=transparent)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fgori42&theme=transparent)
