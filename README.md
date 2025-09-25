@@ -13,5 +13,5 @@ I have completed the common core at 42 School, and my main skills include C, C++
   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fgori42&theme=transparent)
 </div>
 ## 🛠️ Linguaggi & Competenze
-[![Le Mie Competenze](https://skillicons.dev/icons?i=c,cpp,ts,cs,bash,linux,docker,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,cs,bash,linux,docker,git,github,vscode)](https://skillicons.dev)
 
