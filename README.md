@@ -17,4 +17,15 @@ I have completed the common core at 42 School, and my main skills include C, C++
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,git,github,linux,ts,docker,blender)](https://skillicons.dev)
 
+## progetti condivisi
 
+<table>
+ <tr>
+    <td align="center"><a href="https://github.com/stescaro99/ft_trascendence">ft_trascendence</a></td>
+    <td align="center">125%</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
